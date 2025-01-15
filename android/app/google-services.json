@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1069494412563",
+    "project_id": "remainder-9bc1d",
+    "storage_bucket": "remainder-9bc1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069494412563:android:2cfc2f4990acf1d12f26e6",
+        "android_client_info": {
+          "package_name": "com.example.notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL-Cvh8FETCIXmiK6g1YCf4KW8p1WHFxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
